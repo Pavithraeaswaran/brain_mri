@@ -1,0 +1,19 @@
+INFO:     Started server process [2536]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:12000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55646 - "GET /healthz HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55662 - "GET /api/scans HTTP/1.1" 200 OK
+INFO:     10.1.0.41:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51894 - "GET /healthz HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51902 - "GET /api/scans HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51904 - "GET /api/analytics HTTP/1.1" 200 OK
+INFO:     10.1.0.41:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56520 - "POST /api/upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56532 - "GET /api/scans HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50326 - "GET /api/analytics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35790 - "GET /healthz HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44728 - "HEAD /media/3160ea300.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56086 - "POST /api/upload HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56088 - "GET /api/scans HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56090 - "GET /api/analytics HTTP/1.1" 200 OK
